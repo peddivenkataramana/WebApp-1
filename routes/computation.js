@@ -4,7 +4,7 @@ var router = express.Router();
 
 var x = Math.random();
 
-var y = Math.random();
+
 
 var val1="Math.fround() applied to "+ x + " is "+ Math.fround(x)
 
